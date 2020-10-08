@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>Gordae (Gordae Developer Team)</h1>
 
-<!--
-**Gordae/Gordae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>We Are A Fairly Small Team, At Least Like 3 Members.</p>
+<p>We Code, A Lot, Our Project, Glint, It Has 180 Lines, Yeah.</p>
+<p>Also this Readme is being made in HTML for no reason.</p>
+<p> </p>
+<p>We Want to/do code in these languges:</p>
 
-Here are some ideas to get you started:
+Want To Code in | Do Code In
+------------ | -------------
+Java | Python
+C# | Batchfile
+Assembly |
+C++ |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Also We Are Currently Coding Glint.
+<p>Anyways, We Also Am Coding A Game In Batchfile.</p>
