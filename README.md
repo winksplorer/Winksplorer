@@ -1,3 +1,1 @@
-<h1>Winksplorer<h1>
-
-Hi! I Am A Person. My Page Might Be Updated Soon.
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Winksplorer)](https://github.com/anuraghazra/github-readme-stats)
