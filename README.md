@@ -1,4 +1,4 @@
-Hello There! I Am A System Programmer Always Intrested In How OSes Work!
+Hello There! I Am A System Programmer.
 
 If You Want To Email Me, Contact `winksplorer@gordae.com`.
 That's It!
